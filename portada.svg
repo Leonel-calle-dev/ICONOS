@@ -5,7 +5,7 @@
 <defs>
 </defs>
 <g transform="matrix(-0.79 0 0 -0.6 423.5 93.37)"  >
-<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;"  x="-542" y="-161" rx="0" ry="0" width="1084" height="322" />
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,13,61); fill-rule: nonzero; opacity: 1;"  x="-542" y="-161" rx="0" ry="0" width="1084" height="322" />
 </g>
 <g transform="matrix(1.26 0 0 1.26 373.5 71.11)" style=""  >
 		<text xml:space="preserve" font-family="'Lucida Console', Monaco, monospace" font-size="34" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-238.78" y="9.42" style="stroke-width: 1; font-size: 30px; font-style: normal; font-weight: normal; ">ROGER LEONEL CHUI CALLE</tspan></text>
@@ -39,5 +39,11 @@
 </g>
 <g transform="matrix(1 0 0 1 236 114.25)"  >
 <line style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x1="0" y1="0" x2="0" y2="0" />
+</g>
+<g transform="matrix(1 0 0 1 648 27.25)"  >
+<line style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x1="0" y1="0" x2="0" y2="0" />
+</g>
+<g transform="matrix(1 0 0 1 282 33.75)"  >
+<line style="stroke: rgb(0,0,0); stroke-width: 2; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x1="2" y1="1.5" x2="-2" y2="-1.5" />
 </g>
 </svg>
